@@ -1,2 +1,2 @@
 requests==2.19.1
-ansible==2.9.9
+ansible==2.10.7
